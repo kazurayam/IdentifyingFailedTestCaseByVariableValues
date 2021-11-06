@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>cdcfdd27-f7c0-487b-9bdf-d3f9c392c57d</testSuiteGuid>
+   <testCaseLink>
+      <guid>34ee92a5-292b-46ad-b5fb-211b8b47f398</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3f4849d8-d67b-4505-9553-084ea3ca262b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Demo_Accounts</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>3f4849d8-d67b-4505-9553-084ea3ca262b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>demo_usn</value>
+         <variableId>c6ebaff5-04ff-4ee8-beeb-e700ed9eaa05</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3f4849d8-d67b-4505-9553-084ea3ca262b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>demo_pwd</value>
+         <variableId>ecc4bce0-d65f-40f8-948f-b5266b03a078</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>tcdiagnostics</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'_'</initValue>
+      <name>CURRENT_TESTSUTE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'_'</initValue>
+      <name>CURRENT_TESTCASE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'out/tcdiagnostics.json'</initValue>
+      <name>REPORT_PATH</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>TCDIAGNOSTICS</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
